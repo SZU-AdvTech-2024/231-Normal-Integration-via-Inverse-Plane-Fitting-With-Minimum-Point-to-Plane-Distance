@@ -1,0 +1,8 @@
+@inproceedings{REPO231,
+    author = "Cao, Xu and Shi, Boxin and Okura, Fumio and Matsushita, Yasuyuki",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "2382-2391",
+    title = "{Normal Integration via Inverse Plane Fitting With Minimum Point-to-Plane Distance}",
+    year = "2021"
+}
